@@ -1,0 +1,20 @@
+﻿<Properties>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="Recording2.rxrec" />
+    <Element value="Recording1.rxrec" />
+    <Element value="BP_Production__Desktop.rxtst" />
+    <Element value="Recording5.rxrec" />
+    <Element value="Login.rxrec" />
+    <Element value="Validate_Contact_information_of_Lo.rxrec" />
+    <Element value="Validating_Bp_Loan_progress_image.rxrec" />
+    <Element value="Validate_Contact_information_of_Lo.UserCode.cs" />
+    <Element value="BP_Production__DesktopRepository.rxrep" />
+    <Element value="Logout.rxrec" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+  </Properties>
+</Properties>
